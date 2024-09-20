@@ -14,7 +14,7 @@ module.exports = {
         }
     },
     website: {
-        asserts: './assets',
+        assets: './assets',
         css: [
             'plugin.css'
         ]
