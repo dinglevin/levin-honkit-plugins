@@ -1,0 +1,8 @@
+{
+    "name": "honkit-plugin-tooltips",
+    "version": "0.0.1",
+    "description": "honkit显示tooltips插件",
+    "engines": {
+        "honkit": ">=5.1.4"
+    }
+}
