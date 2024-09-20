@@ -15,7 +15,7 @@ module.exports = {
     },
     website: {
         asserts: './assets',
-        cass: [
+        css: [
             'plugin.css'
         ]
     }
