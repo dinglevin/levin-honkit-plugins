@@ -87,3 +87,13 @@
   opacity: 1;
   pointer-events: auto;  /* 鼠标悬停时允许交互 */
 }
+
+.tooltips .hints-icon {
+  display: table-cell;
+  padding-right: 15px;
+  padding-left: 5px;
+}
+
+.tooltips .hints-container {
+  display: table-cell;
+}
