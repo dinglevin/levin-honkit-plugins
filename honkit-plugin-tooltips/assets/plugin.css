@@ -16,7 +16,7 @@
 
   /* Position the tooltip text */
   position: absolute;
-  z-index: 1;
+  z-index: 99999;
 
   top: 100%;
   left: 0;  /* 左边对齐 */
@@ -59,7 +59,7 @@
 
   /* Position the tooltip text */
   position: absolute;
-  z-index: 1;
+  z-index: 99999;
 
   bottom: 100%;
   left: 0;  /* 左边对齐 */
